@@ -1,0 +1,6 @@
+{
+  "name": "SpeakUp AI",
+  "description": "AI-powered personal English communication coach for speaking, grammar, fluency, Tanglish support, and confidence practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
